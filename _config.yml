@@ -1,11 +1,11 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: zach
+SEOTitle: zach的博客 | zach's Blog
 header-img: img/post-bg-rwd.jpg
-email: qiubaiying@gmail.com
+email: zachouc1996@gmail.com
 description: "每个胜利背后都有许多尝试"
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "https://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "zach, zach Blog, zach的博客, zach, iOS, Apple, iPhone"
+url: "https://ssyygam.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -19,10 +19,10 @@ sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+zhihu_username:     SSYYGAM
+github_username:    SSYYGAM
+#facebook_username:  baiying.qiu.7
+jianshu_username:   646d37b8226e
 #twitter_username:   qiubaiying
 
 
